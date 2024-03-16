@@ -10,16 +10,16 @@
 ## Quick Overview
 
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
-- 💡 Open to collaborate on web development and backend projects.
-- 🤔 Currently diving deep into Python and Machine Learning.
-- 💬 Let's discuss all things web and backend development!
+- 💡 Open to collaborate on Projects
+- 🤔 Currently diving deep into Full-Stack Development.
+- 💬 Let's discuss Machine Le!
 
 ## Skills & Tools
 
 ### Frontend Development
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** ReactJS, NextJS, Bootstrap
+- **Frameworks/Libraries:** ReactJS, NextJS, Bootstrap, Tailwind
 
 ### Backend Development
 
