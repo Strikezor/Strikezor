@@ -64,7 +64,7 @@
 - **Creative Thinking:** Leveraging innovative and out-of-the-box solutions.
 - **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
 
-## GitHub and Leetcode Stats
+## Leetcode Stats
 
 [![Akshay's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akshay064&theme=Dark)](https://leetcode.com/akshay064/)
 
