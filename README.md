@@ -11,8 +11,8 @@
 
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
 - 💡 Open to collaborate on Projects
-- 🤔 Currently diving deep into Full-Stack Development.
-- 💬 Let's discuss Machine Le!
+- 🤔 Currently diving deep into Full-Stack Development using NextJS.
+- 💬 Let's discuss Machine Learning & Development!
 
 ## Skills & Tools
 
