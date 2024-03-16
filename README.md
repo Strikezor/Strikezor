@@ -66,29 +66,22 @@
 
 ## GitHub and Leetcode Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Strikezor&show_icons=true&theme=dark)](https://github.com/Strikezor/)
-
-[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akshay064&theme=Dark)](https://leetcode.com/akshay064/)
+[![Akshay's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akshay064&theme=Dark)](https://leetcode.com/akshay064/)
 
 ## My most recent projects
 
-<a href="https://github.com/Strikezor/TicketsMgt">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=TicketMgt&theme=dark)</a>
-<a href="https://github.com/Strikezor/Keyboard-Game">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=Keyboard-Game&theme=dark)</a>
+<a href="https://github.com/Strikezor/TicketsMgt">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=TicketsMgt&theme=dark)</a>
+<a href="https://github.com/Strikezor/Keyboard-Game">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=Keyboard-Game&theme=dark)</a>
 
 ## My Future Projects
 
-### Powerful Social Media Platform
+### Powerful Blog Platform
 
-- **Description:** Creating a powerful social media platform with support for desktop and Android on the web.
+- **Description:** Creating a Full Stack Blog Application using NextJS
 - **Features:**
-  - Web support for both desktop and Android.
-  - Seamless integration with other social platforms such as GitHub, Google, and others.
+  - Website supports all the devices.
+  - Easily add new Blogs
 - **Goals:**
   - Provide a user-friendly interface.
   - Enhance user experience with responsive design.
-  - Enable easy connectivity to multiple social platforms.
-- **Timeline:**
-  - Planning: February 25, 2024
-  - Development: February 25, 2024 - March 15, 2024
-  - Testing: March 15, 2024 - March 16, 2024
-  - Deployment: March 17, 2024
+  - Enable easy setup using Google & Github.
