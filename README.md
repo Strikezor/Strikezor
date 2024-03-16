@@ -43,10 +43,6 @@
   - Embracing flexibility to address changing project requirements (SOLID).
   - Conducting regular sprint planning and retrospectives for continuous improvement.
 
-### Scrum Practices
-
-- Maintaining a prioritized backlog for efficient task management, ensuring alignment with project objectives.
-
 ### Kanban Board
 
 - Employing Kanban for visualizing workflow and optimizing task progression.
