@@ -68,10 +68,11 @@
 
 <a href="https://github.com/Strikezor/TicketsMgt">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=TicketsMgt&theme=dark)</a>
 <a href="https://github.com/Strikezor/Keyboard-Game">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=Keyboard-Game&theme=dark)</a>
+<a href="https://github.com/Strikezor/Blog-Page">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Strikezor&repo=Blog-Page&theme=dark)</a>
 
 ## My Future Projects
 
-### Powerful Blog Platform
+### Powerful Ecommerce Platform
 
 - **Description:** Creating a Full Stack Ecommerce Website using NextJS
 - **Features:**
