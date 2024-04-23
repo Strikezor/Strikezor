@@ -73,10 +73,11 @@
 
 ### Powerful Blog Platform
 
-- **Description:** Creating a Full Stack Blog Application using NextJS
+- **Description:** Creating a Full Stack Ecommerce Website using NextJS
 - **Features:**
   - Website supports all the devices.
-  - Easily add new Blogs
+  - Easily perform buying-selling operations
+  - Additional features that use Machine Learning and Ai
 - **Goals:**
   - Provide a user-friendly interface.
   - Enhance user experience with responsive design.
