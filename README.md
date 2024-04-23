@@ -25,7 +25,7 @@
 
 - **Languages:** Python(Flask), C++, Javascript, NodeJS (Express)
 - **Frameworks/Libraries:** Flask, Numpy, Pandas, SciKit Learn, Scipy, Beautiful Soup (Python), Mongoose (NodeJS),
-- **Database:** MySQL, MongoDB, Firebase, Prisma(sqlite)
+- **Database:** MySQL, MongoDB, Firebase, Prisma(sqlite,mongodb)
 
 ### Tools & Environment
 
