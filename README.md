@@ -1,7 +1,7 @@
 # 👨‍💻 Hey, I'm Akshay Chaturvedi - Data Analyst & Full-stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Strikezor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](portfolio-three-psi-13.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://portfolio-three-psi-13.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/akshay064/)
 ![Profile views](https://komarev.com/ghpvc/?username=Strikezor&color=lightgrey)
 
