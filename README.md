@@ -18,7 +18,7 @@
 
 ### Frontend Development
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries:** ReactJS, NextJS, Bootstrap, Tailwind, Aceternity UI, ShadCN UI
 
 ### Backend Development
